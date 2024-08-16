@@ -16,6 +16,4 @@ Customer churn refers to the loss of customers over time. Understanding and pred
 
 ## View the Complete Project
 
-You can view the full Project here:
-
-[Link](https://nbviewer.org/github/avibarokas14/Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction.ipynb)
+You can view the full Project here: [Link](https://nbviewer.org/github/avibarokas14/Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction.ipynb)
